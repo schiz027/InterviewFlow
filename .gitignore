@@ -12,6 +12,8 @@
 !/docs/
 /docs/*
 !/docs/banner.svg
+!/docs/workflow.svg
+!/docs/guide.md
 !/.github/
 /.github/*
 !/.github/ISSUE_TEMPLATE/

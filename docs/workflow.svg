@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="От вакансии к решению">
+<rect width="1200" height="240" rx="20" fill="#f1f5ef"/>
+<g fill="#fff" stroke="#d6e2d3"><rect x="24" y="24" width="360" height="192" rx="14"/><rect x="420" y="24" width="360" height="192" rx="14"/><rect x="816" y="24" width="360" height="192" rx="14"/></g>
+<g font-family="Segoe UI,Arial,sans-serif">
+<g fill="#285c48" font-size="15" font-weight="700"><text x="48" y="61">01 / ПОДГОТОВКА</text><text x="444" y="61">02 / РАЗГОВОР</text><text x="840" y="61">03 / РЕЗУЛЬТАТ</text></g>
+<g fill="#243331" font-size="29" font-weight="700"><text x="48" y="108">Вакансия</text><text x="444" y="108">Собеседование</text><text x="840" y="108">Решение</text></g>
+<g fill="#5d7164" font-size="19"><text x="48" y="150">Свои вопросы</text><text x="48" y="178">и критерии оценки</text><text x="444" y="150">Ответы кандидата</text><text x="444" y="178">и ваши наблюдения</text><text x="840" y="150">Итоги, следующий шаг</text><text x="840" y="178">и готовый отчёт</text></g>
+</g>
+<g fill="none" stroke="#679279" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M394 120h15m-5-5 5 5-5 5"/><path d="M790 120h15m-5-5 5 5-5 5"/></g>
+</svg>

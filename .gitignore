@@ -41,3 +41,7 @@
 /.hallmark/
 /assets/
 /Прочитать.txt
+# Local release builder and generated archives
+/build-release.bat
+/.release-tools/
+/releases/

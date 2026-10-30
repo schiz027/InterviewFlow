@@ -17,7 +17,7 @@ InterviewFlow помогает проводить собеседования и 
 
 Нужны **Python 3.10+** и современный браузер. Дополнительные библиотеки не требуются.
 
-1. [Скачайте ZIP](https://github.com/schiz027/InterviewFlow/archive/refs/heads/main.zip) и распакуйте.
+1. [Скачайте ZIP со страницы релизов](https://github.com/schiz027/InterviewFlow/releases) и распакуйте.
 2. Откройте **`Запустить.cmd`** в Windows или выполните `python server.py`.
 3. Откройте адрес из окна запуска и введите показанный **PIN-код**.
 

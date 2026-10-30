@@ -1,0 +1,41 @@
+# Default deny: only reviewed source and project documentation may be added.
+/*
+!/.gitignore
+!/.gitattributes
+!/server.py
+!/index.html
+!/Запустить.cmd
+!/README.md
+!/LICENSE
+!/SECURITY.md
+!/CONTRIBUTING.md
+!/docs/
+/docs/*
+!/docs/banner.svg
+!/.github/
+/.github/*
+!/.github/ISSUE_TEMPLATE/
+/.github/ISSUE_TEMPLATE/*
+!/.github/ISSUE_TEMPLATE/bug_report.md
+# Runtime data and exports must never enter Git, even inside allowed directories.
+**/data/
+**/__pycache__/
+**/.env*
+**/*.json
+**/*.docx
+**/*.pdf
+**/*.zip
+**/*.log
+**/*.pem
+**/*.key
+**/*.sqlite*
+# Reviewed generic starter template and styles
+!/default-template.json
+!/base.css
+!/tokens.css
+# Explicit private source materials
+/default-vacancy.json
+/.publication-private/
+/.hallmark/
+/assets/
+/Прочитать.txt
